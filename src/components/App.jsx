@@ -18,6 +18,7 @@ function App() {
                 name="Jack Bauer"
                 img="https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg"
                 tel="+098 765 4321"
+                email="jb@com.gmail"
             />
             <ContactCard
                 name="Chuch Norris"
