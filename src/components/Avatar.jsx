@@ -1,7 +1,6 @@
 import React from 'react';
 
 function Avatar(props) {
-    console.log('avatar props: ', props);
     return (
         <img
             src={props.img}
